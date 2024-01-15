@@ -1,2 +1,2 @@
-# Portf-lio
+# Portfolio
 Portfolio desenvolvido em HTML, CSS e JS
